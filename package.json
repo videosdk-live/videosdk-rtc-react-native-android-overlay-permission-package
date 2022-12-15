@@ -1,0 +1,24 @@
+{
+  "name": "videosdk-rn-android-overlay-permission",
+  "version": "1.0.5",
+  "description": "Overlay Permission for Android apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Android",
+    "Overlay Permission",
+    "Permissions"
+  ],
+  "author": "Ahmed Bhesaniya",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/videosdk-live/videosdk-rtc-react-native-android-overlay-permission-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/videosdk-live/videosdk-rtc-react-native-android-overlay-permission-package/issues"
+  },
+  "homepage": "https://github.com/videosdk-live/videosdk-rtc-react-native-android-overlay-permission-package"
+}
